@@ -11,12 +11,16 @@
 
 /* Column headings */
 .elfinder .elfinder-cwd-wrapper-list table thead tr td {
-  /* */
+  color: #43536a;
+}
+
+.elfinder .elfinder-cwd-wrapper-list table thead tr td:not(:last-child) {
+  border-right: 1px solid #6f6f6f;
 }
 
 /* Actively sorted column heading */
 .elfinder .elfinder-cwd-wrapper-list table thead tr td.ui-state-active {
-  /* */
+  border-right: 1px solid #e5e5e5;
 }
 
 /* Table heading icons (mainly the sorter) */
@@ -36,8 +40,12 @@
 
 /* Files */
 /* File */
-.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file {
-  /* */
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file td {
+  border: 1px solid transparent;
+}
+
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file td:not(:first-child) {
+  color: #9d9d9d;
 }
 
 /* Filename */
@@ -50,12 +58,26 @@
 .elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file:hover,
 .elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file.ui-state-hover,          /* fix for 2.x */
 .elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file.ui-state-hover:hover {   /* fix for 2.1 */
-  /* */
+  background: #e5f3ff;
+  border-color: #e5f3ff;
 }
 
 /* Selected file */
 .elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file.ui-selected {
-  /* */
+  background: #cce8ff;
+}
+
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file.ui-selected td {
+  border-top: 1px solid #99d1ff;
+  border-bottom: 1px solid #99d1ff;
+}
+
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file.ui-selected td:first-child {
+  border-left: 1px solid #99d1ff;
+}
+
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file.ui-selected td:last-child {
+  border-right: 1px solid #99d1ff;
 }
 
 /* Icons */

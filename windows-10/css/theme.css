@@ -6,6 +6,9 @@
 /* Reset */
 @import url('reset.css');
 
+/* Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Open+Sans:300');
+
 /* Main features of the whole UI */
 @import url('main.css');
 

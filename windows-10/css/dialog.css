@@ -6,7 +6,20 @@
 
 /* Dialog title */
 .elfinder .elfinder-dialog .ui-dialog-titlebar {
-  /* */
+  padding: 3px 0 3px 6px;
+}
+
+/* Close button */
+.elfinder .elfinder-dialog .ui-dialog-titlebar-close {
+  right: 0;
+  border-radius: 0;
+  margin-top: -12px;
+  webkit-transition: background 0.3s, border 0.3s; /* Safari */
+  transition: background 0.3s, border 0.3s;
+}
+
+.elfinder .elfinder-dialog .ui-dialog-titlebar-close:hover {
+  background: #d20303;
 }
 
 /* Dialog content */

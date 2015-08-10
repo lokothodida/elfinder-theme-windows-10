@@ -11,12 +11,15 @@
 
 /* Buttons */
 .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button {
-  /* */
+  border: 1px solid transparent;
+  webkit-transition: background 0.3s, border 0.3s; /* Safari */
+  transition: background 0.3s, border 0.3s;
 }
 
 /* Hovered buttons */
 .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button:hover {
-  /* */
+  background: #cce8ff;
+  border: 1px solid #99d1ff;
 }
 
 /* Disabled buttons */
