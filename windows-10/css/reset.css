@@ -23,7 +23,7 @@
 .elfinder .elfinder-cwd table thead tr,
 .elfinder .elfinder-cwd table tbody tr,
 .elfinder .elfinder-cwd-file .ui-state-hover,
-.elfinder .elfinder-cwd-file .elfinder-cwd-icon,
+.elfinder .elfinder-cwd-file .elfinder-cwd-icon-directory,
 .elfinder .elfinder-cwd-file .elfinder-cwd-filename,
 .elfinder .elfinder-cwd-file .elfinder-cwd-filename.ui-state-hover,
 
@@ -41,7 +41,7 @@
 /* icons */
 .elfinder-button-icon,
 .elfinder-navbar-icon,
-.elfinder-cwd-icon,
+.elfinder-cwd-icon-directory,
 .elfinder .ui-icon,
 
 /* statusbar */
