@@ -1,0 +1,32 @@
+/**
+ * elFinder Theme Template
+ * @author lokothodida
+ */
+
+/* Reset */
+@import url('reset.css');
+
+/* Main features of the whole UI */
+@import url('main.css');
+
+/* Icons */
+@import url('icons.css');
+
+/* Toolbar (top panel) */
+@import url('toolbar.css');
+
+/* Navbar (left panel) */
+@import url('navbar.css');
+
+/* Views (List and Thumbnail) */
+@import url('view-list.css');
+@import url('view-thumbnail.css');
+
+/* Context menu */
+@import url('contextmenu.css');
+
+/* (Modal) Dialogs */
+@import url('dialog.css');
+
+/* Status Bar */
+@import url('statusbar.css');

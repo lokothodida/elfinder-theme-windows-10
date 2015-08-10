@@ -1,0 +1,100 @@
+/* dialog.css */
+/* Dialog wrapper */
+.elfinder .elfinder-dialog {
+  /* */
+}
+
+/* Dialog title */
+.elfinder .elfinder-dialog .ui-dialog-titlebar {
+  /* */
+}
+
+/* Dialog content */
+.elfinder .elfinder-dialog .ui-dialog-content {
+  /* */
+}
+
+/* Tabs */
+/* Tabs wrapper */
+.elfinder .elfinder-dialog .ui-tabs-nav {
+  /* */
+}
+
+/* Normal tab */
+.elfinder .elfinder-dialog .ui-tabs-nav .ui-state-default {
+  /* */
+}
+
+/* Current tab */
+.elfinder .elfinder-dialog .ui-tabs-nav .ui-tabs-selected {
+  /* */
+}
+
+/* Active tab */
+.elfinder .elfinder-dialog .ui-tabs-nav li:active {
+  /* */
+}
+
+/* Icons */
+/* Dialog icon (e.g. for error messages) */
+.elfinder .elfinder-dialog .elfinder-dialog-icon {
+  /* */
+}
+
+/* Error icon */
+.elfinder .elfinder-dialog .elfinder-dialog-icon-error {
+  /* */
+}
+
+/* Confirmation icon */
+.elfinder .elfinder-dialog .elfinder-dialog-icon-confirm {
+  /* */
+}
+
+/* Footer */
+.elfinder .elfinder-dialog .ui-dialog-buttonpane {
+  /* */
+}
+
+/* Buttonset (wrapper) */
+.elfinder .elfinder-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+  /* */
+}
+
+/* Button */
+.elfinder .elfinder-dialog .ui-dialog-buttonpane .ui-dialog-buttonset .ui-button {
+  /* */
+}
+
+/* Styling specific types of dialogs */
+/* Error */
+.elfinder .elfinder-dialog-error {
+  /* */
+}
+
+/* Confirm */
+.elfinder .elfinder-dialog-confirm {
+  /* */
+}
+
+/* File editing */
+.elfinder .elfinder-dialog .elfinder-file-edit {
+  /* */
+}
+
+/* File information */
+/* Title */
+.elfinder .elfinder-dialog .elfinder-info-title {
+  /* */
+}
+
+/* Table */
+.elfinder .elfinder-dialog .elfinder-info-tb {
+  /* */
+}
+
+/* File upload (including dropbox) */
+.elfinder .elfinder-dialog .elfinder-upload-dropbox,
+.elfinder .elfinder-dialog .elfinder-upload-dialog-or {
+  /* */
+}

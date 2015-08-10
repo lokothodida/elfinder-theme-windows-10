@@ -1,0 +1,26 @@
+/* contextmenu.css */
+/* **Note** that the context menu is NOT inside the main elfinder div */
+/* Context menu wrapper */
+.elfinder-contextmenu {
+  /* */
+}
+
+/* Menu item */
+.elfinder-contextmenu .elfinder-contextmenu-item {
+  /* */
+}
+
+/* Hovered menu item */
+.elfinder-contextmenu .elfinder-contextmenu-item:hover {
+  /* */
+}
+
+/* Item icon */
+.elfinder-contextmenu .elfinder-contextmenu-item .elfinder-contextmenu-icon {
+  /* */
+}
+
+/* Separator */
+.elfinder-contextmenu .elfinder-contextmenu-separator {
+  /* */
+}

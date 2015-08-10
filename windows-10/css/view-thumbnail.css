@@ -1,0 +1,29 @@
+/* view-thumbnail.css */
+/* Wrapper for thumbnail view */
+.elfinder .elfinder-cwd-view-icons {
+}
+
+/* File wrapper */
+.elfinder .elfinder-cwd-view-icons .elfinder-cwd-file {
+  /* */
+}
+
+/* Hovered file */
+.elfinder .elfinder-cwd-view-icons .elfinder-file:hover {
+  /* */
+}
+
+/* Selected file */
+.elfinder .elfinder-cwd-view-icons .elfinder-file.ui-selected {
+  /* */
+}
+
+/* File icon */
+.elfinder .elfinder-cwd-view-icons .elfinder-cwd-file .elfinder-cwd-icon {
+  /* */
+}
+
+/* File name */
+.elfinder .elfinder-cwd-view-icons .elfinder-cwd-file .elfinder-cwd-filename {
+  /* */
+}

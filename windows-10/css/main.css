@@ -1,0 +1,18 @@
+/* main.css */
+/* Container div for elFinder */
+.elfinder {
+  /* */
+}
+
+/* Override styles in child elements of elFinder div */
+/* Use for consistently setting text sizes and overriding general jQuery UI styles */
+.elfinder * {
+  color: #000;
+}
+
+/* Resizer */
+/* Used if elFinder is resizable and on dialogs */
+.elfinder .ui-icon-gripsmall-diagonal-se,
+.elfinder-dialog .ui-icon-gripsmall-diagonal-se {
+  /* */
+}

@@ -1,0 +1,61 @@
+/* navbar.css */
+/* Main wrapper for navbar */
+.elfinder .elfinder-navbar {
+
+}
+
+/* Directories */
+.elfinder .elfinder-navbar .elfinder-navbar-dir {
+  color: #000;
+}
+
+/* Hovered directory  */
+.elfinder .elfinder-navbar .elfinder-navbar-dir:hover {
+  /* */
+}
+
+/* Current/active directory (cwd) */
+.elfinder .elfinder-navbar .elfinder-navbar-dir.ui-state-active {
+  /* */
+}
+
+/* Howvered cwd */
+.elfinder .elfinder-navbar .elfinder-navbar-dir.ui-state-active:hover {
+  /* */
+}
+
+/* Icons */
+/* Arrow */
+.elfinder .elfinder-navbar .elfinder-navbar-arrow {
+  /* */
+}
+
+/* Expanded directory arrow */
+.elfinder .elfinder-navbar-expanded .elfinder-navbar-arrow {
+  /* */
+}
+
+/* All icons (directories) */
+.elfinder .elfinder-navbar .elfinder-navbar-icon {
+  background-color: transparent;
+  background-image: url('../images/16px/directory.png') !important;
+  background-position: center center;
+  background-repeat: none;
+  height: 16px;
+  width: 16px;
+}
+
+/* Root/volume */
+.elfinder .elfinder-navbar-root > .elfinder-navbar-icon {
+  /* */
+}
+
+/* Root/volume expanded */
+.elfinder .elfinder-navbar-root.elfinder-navbar-expanded  > .elfinder-navbar-icon {
+  /* */
+}
+
+/* Resizable handle */
+.elfinder .elfinder-navbar .ui-resizable-handle.ui-resizable-e {
+  /* */
+}

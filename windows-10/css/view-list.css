@@ -1,0 +1,64 @@
+/* view-list.css */
+/* Wrapper for list view */
+.elfinder .elfinder-cwd-wrapper-list {
+  /* */
+}
+
+/* List view table */
+.elfinder .elfinder-cwd-wrapper-list table {
+  /* */
+}
+
+/* Column headings */
+.elfinder .elfinder-cwd-wrapper-list table thead tr td {
+  /* */
+}
+
+/* Actively sorted column heading */
+.elfinder .elfinder-cwd-wrapper-list table thead tr td.ui-state-active {
+  /* */
+}
+
+/* Table heading icons (mainly the sorter) */
+.elfinder .elfinder-cwd-wrapper-list table tr td .ui-icon {
+  /* */
+}
+
+/* Table heading sorter up */
+.elfinder .elfinder-cwd-wrapper-list table tr.ui-state-default td .ui-icon-triangle-1-n:before {
+  /* */
+}
+
+/* Table heading sorter down */
+.elfinder .elfinder-cwd-wrapper-list table tr.ui-state-default td .ui-icon-triangle-1-s:before {
+  /* */
+}
+
+/* Files */
+/* File */
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file {
+  /* */
+}
+
+/* Filename */
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file .elfinder-cwd-filename {
+  /* */
+}
+
+/* Hovered file */
+
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file:hover,
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file.ui-state-hover,          /* fix for 2.x */
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file.ui-state-hover:hover {   /* fix for 2.1 */
+  /* */
+}
+
+/* Selected file */
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file.ui-selected {
+  /* */
+}
+
+/* Icons */
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file .elfinder-cwd-icon {
+  /* */
+}
