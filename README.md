@@ -1,6 +1,8 @@
 # elFinder "Windows 10" Theme
 An elFinder theme that mimics Windows 10's user interface.
 
+![elfinder-windows-10-screenshot-1](https://cloud.githubusercontent.com/assets/4363863/9177364/bbafa306-3f88-11e5-932f-c5e581f9e0e4.png)
+
 # Usage
 * Copy the `/windows-10` folder from this repository to the `/themes` folder of your
 elFinder installation (create the folder if it doesn't exist)
