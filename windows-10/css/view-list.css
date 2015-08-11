@@ -15,7 +15,13 @@
 }
 
 .elfinder .elfinder-cwd-wrapper-list table thead tr td:not(:last-child) {
-  border-right: 1px solid #6f6f6f;
+  border-right: 1px solid #e5e5e5;
+}
+
+/* Hovered column heading */
+.elfinder .elfinder-cwd-wrapper-list table thead tr td.ui-state-hover,
+.elfinder .elfinder-cwd-wrapper-list table thead tr td:hover {
+  background: #d0dded;
 }
 
 /* Actively sorted column heading */
