@@ -9,6 +9,11 @@
   /* */
 }
 
+/* Buttonset wrapper for search field */
+.elfinder .elfinder-button-search .elfinder-button-menu {
+  background: #fff !important;
+}
+
 /* Buttons */
 .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button {
   border: 1px solid transparent;
@@ -20,6 +25,12 @@
 .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button:hover {
   background: #cce8ff;
   border: 1px solid #99d1ff;
+}
+
+/* Hovered buttons in search field */
+.elfinder .elfinder-button-search .elfinder-button-menu .ui-button:hover {
+  background: #cce8ff;
+  border: 0px solid #99d1ff;
 }
 
 /* Disabled buttons */
@@ -39,7 +50,9 @@
 
 /* Searchbar */
 .elfinder-toolbar .elfinder-button-search {
-  /* */
+  border: 1px solid #ccc;
+  margin-right: 5px;
+  border-radius: 0;
 }
 
 /* Searchbar icons (search and close) */
@@ -95,7 +108,7 @@
   }
 
   .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-mkfile {
-    background-image: url('../images/16px/file.png');
+    background-image: url('../images/16px/file.svg');
   }
 
   .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-upload {
