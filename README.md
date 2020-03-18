@@ -21,3 +21,4 @@ and [2.1 (Nightly)](http://nao-pon.github.io/elFinder-nightly/latests/elfinder-2
 # Credit
 * [Bavo Lystoborg](https://twitter.com/BAV0) for the [Windows 10 icons](http://icons.bav0.com/builds/10166)
 * [Alex (a2exfr)](https://github.com/a2exfr/) for adding more icons
+* [Wei Ouyang (oeway)](https://github.com/oeway) for icons and fixes
